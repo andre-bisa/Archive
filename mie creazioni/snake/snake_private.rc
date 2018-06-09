@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "snake.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 2,0,0,7
+PRODUCTVERSION 2,0,0,7
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "041004E4"
+		 {
+			 VALUE "CompanyName", ""
+			 VALUE "FileVersion", "2.0.0.7"
+			 VALUE "FileDescription", "Snake"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", ""
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", "Andre_bisa"
+			 VALUE "ProductVersion", "2.0.0.7"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0410, 1252
+	 }
+}
+

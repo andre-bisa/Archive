@@ -1,0 +1,31 @@
+C:\Users\Andrea\Desktop\audio\audio\bin\Debug\audio.exe
+C:\Users\Andrea\Desktop\audio\audio\bin\Debug\audio.pdb
+C:\Users\Andrea\Desktop\audio\audio\bin\Debug\audio.xml
+C:\Users\Andrea\Desktop\audio\audio\bin\Debug\CoreAudioApi.dll
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.Form1.resources
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.Form2.resources
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.Form3.resources
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.Form4.resources
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.Resources.resources
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.exe
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.xml
+C:\Users\Andrea\Desktop\audio\audio\obj\x86\Debug\audio.pdb
+C:\Users\Andrea\Desktop\audio\audio\bin\Debug\audio.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\bin\Debug\audio.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\bin\Debug\audio.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\bin\Debug\audio.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\bin\Debug\audio.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\bin\Debug\CoreAudioApi.dll
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.Form1.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.Form2.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.Form3.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.Form4.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\audio\audio\obj\x86\Debug\audio.pdb

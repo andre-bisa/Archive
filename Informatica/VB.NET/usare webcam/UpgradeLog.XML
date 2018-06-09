@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Webcam">
+</Property><Property Name="File di soluzione" Value="C:\Users\Andrea\Desktop\howto_net_video_capture\Webcam.sln">
+</Property><Property Name="Date" Value="martedì 25 dicembre 2012">
+</Property><Property Name="Time" Value="16:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Webcam.sln" Description="File salvato come C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\Webcam.sln">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Backup del file di progetto completato con nome C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\Webcam.vbproj">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj.user" Description="Backup del file di progetto dell'utente completato con nome C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\Webcam.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="AssemblyInfo.vb" Description="Backup del file completato con nome C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Form1.vb" Description="Backup del file completato con nome C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Form1.resx" Description="Backup del file completato con nome C:\Users\Andrea\Desktop\howto_net_video_capture\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="Webcam" Source="Webcam.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Webcam.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Webcam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

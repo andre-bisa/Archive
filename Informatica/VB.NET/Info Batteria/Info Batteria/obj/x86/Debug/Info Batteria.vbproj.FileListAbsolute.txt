@@ -1,0 +1,12 @@
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\bin\Debug\Info Batteria.exe
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\bin\Debug\Info Batteria.pdb
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\bin\Debug\Info Batteria.xml
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.exe
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.xml
+C:\Users\Andrea\Desktop\compiti informatica\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Info Batteria\Info Batteria\obj\x86\Debug\Info Batteria.pdb

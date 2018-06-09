@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\bin\Debug\somma numeri fino a 10.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\bin\Debug\somma numeri fino a 10.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\bin\Debug\somma numeri fino a 10.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma_numeri_fino_a_10.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma_numeri_fino_a_10.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.pdb
+C:\Users\Andrea\Desktop\somma numeri fino a 10\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.exe
+C:\Users\Andrea\Desktop\somma numeri fino a 10\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.xml
+C:\Users\Andrea\Desktop\somma numeri fino a 10\somma numeri fino a 10\obj\x86\Debug\somma numeri fino a 10.pdb

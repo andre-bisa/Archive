@@ -1,0 +1,30 @@
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.exe
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.pdb
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.xml
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.exe
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.xml
+C:\Users\Andrea\Desktop\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.exe
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.xml
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.exe
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.pdb
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.xml
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+H:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.vbproj.GenerateResource.Cache
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.exe
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.xml
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.pdb
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.exe
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.pdb
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\bin\Debug\Codice Fiscale.xml
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Form1.resources
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice_Fiscale.Resources.resources
+G:\compiti informatica\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Codice Fiscale\Codice Fiscale\obj\x86\Debug\Codice Fiscale.pdb

@@ -1,0 +1,44 @@
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\terza\Impostazioni locali\Dati applicazioni\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\terza\Desktop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\Calcolo Tarsu\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

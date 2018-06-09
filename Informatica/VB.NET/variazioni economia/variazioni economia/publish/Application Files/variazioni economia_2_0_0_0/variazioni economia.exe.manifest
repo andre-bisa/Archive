@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="variazioni economia.exe" version="2.0.0.0" publicKeyToken="7c57a3a61c2db331" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="variazioni economia" version="2.1.0.1" language="neutral" processorArchitecture="x86" />
+    <commandLine file="variazioni economia.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opzioni manifesto Controllo account utente
+            Se si desidera modificare il livello di Controllo account utente di Windows, sostituire il 
+            nodo requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Se si specifica il nodo requestedExecutionLevel, la virtualizzazione dei file system e del Registro di sistema verrà disabilitata.
+            Se si desidera utilizzare la virtualizzazione dei file e del Registro di sistema per la 
+            compatibilità con le versioni precedenti, eliminare il nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="variazioni economia.exe" size="182784">
+      <assemblyIdentity name="variazioni economia" version="2.1.0.1" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Ph/KUgH3AAb4KNjPyKWyPqjcUQU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="capitale_proprio.txt" size="16">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QgSs2iC4jPMZYqMVCuvWsx5rBiA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="costi.txt" size="675">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OrKPuoFxfeRV9kDPjkENzjYQgfk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="crediti.txt" size="412">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PD6vWR25v8qRU5KgE4x2PDhCcns=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="debiti.txt" size="489">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JdpBw6Rxl8XM4KQ9OxhTvjtjKiY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="errore.txt" size="7">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yFHpyjVbBe3pb4HhD0MHcJqS4RE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="liquidita.txt" size="72">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hFJDUzhHQ5XMOSJG5PTg9ABJh3k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="logo.ico" size="59990">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vXf51ZNPWKKoUd3CF9EZAxnCsSk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ricavi.txt" size="153">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BgtP2xbDqBkRQChSbLPZpFS8g/k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Elenco di tutte le versioni di Windows con cui è possibile utilizzare l'applicazione. L'ambiente maggiormente compatibile verrà scelto automaticamente.-->
+      <!-- Se l'applicazione è progettata per l'uso con Windows 7, rimuovere il commento dal seguente nodo supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=PC-ANDREA\Andrea" issuerKeyHash="b7c0a1260976dbcfcf1b248633871a4d8c3c1134" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>iKYSvlmdD546cvH8GQTukvoMoVk=</DigestValue></Reference></SignedInfo><SignatureValue>UPCARYzXBV9tKxcWXd+xXYSOOa6tGmkIrh/j1w81BdnkQk7/jquwmnzKnZT7QjcyW5TfmVE7zmkKmQYoJrBwKAkANWRC51NeWlsNEYOm7z3qizUhgsQUTJL5D50jdGVydnsWhaLcwg1sEnNZuMH3LSaic7pb+olDuVQzCkAz8RI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pdVNSUaIxWAsKhHI3rN+vKRqn4u8SSS2zuOpwuGpKKBxgj9lWJBck7pbJpaZ/9L2wyslCuMvWVFI7GkW4d7R8OjRiJv35N2HZPiTcYAaV9245t2JdXbnn7IfCJjRL37xfJRS/xQBlfZ8ff1zf4/vK7v5xVhKZYRBK6sTxeNLrlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="59a10cfa92ee0419fcf1723a9e0f9d59be12a688" Description="" Url=""><as:assemblyIdentity name="variazioni economia.exe" version="2.0.0.0" publicKeyToken="7c57a3a61c2db331" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC-ANDREA\Andrea</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7dMTV6by9eHetIfBYOleaZpXOgs=</DigestValue></Reference></SignedInfo><SignatureValue>mCpl3etuLANFcSD4Xsq6fzdRa93lmx83NGJnSOKANwc5D0R6JyH8F/BjuAtpNt0RrfjaorWhMIqxl9ugGr8X9jui4EP+Q3mkNhs3noSRbKb2dHkNPCW2OJanmJxxaHI4IcZcIEhFWKNu1w5N5z2G9EISEMjEe8MAOY7/UuqE79g=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pdVNSUaIxWAsKhHI3rN+vKRqn4u8SSS2zuOpwuGpKKBxgj9lWJBck7pbJpaZ/9L2wyslCuMvWVFI7GkW4d7R8OjRiJv35N2HZPiTcYAaV9245t2JdXbnn7IfCJjRL37xfJRS/xQBlfZ8ff1zf4/vK7v5xVhKZYRBK6sTxeNLrlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQNPjXFD0p87NIiOrwlL3dDjANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAUABDAC0AQQBOAEQAUgBFAEEAXABBAG4AZAByAGUAYTAeFw0xMzAxMTAxNTQzNDFaFw0xNDAxMTAyMTQzNDFaMCsxKTAnBgNVBAMeIABQAEMALQBBAE4ARABSAEUAQQBcAEEAbgBkAHIAZQBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCl1U1JRojFYCwqEcjes368pGqfi7xJJLbO46nC4akooHGCP2VYkFyTulsmlpn/0vbDKyUK4y9ZUUjsaRbh3tHw6NGIm/fk3Ydk+JNxgBpX3bjm3Yl1duefsh8ImNEvfvF8lFL/FAGV9nx9/XN/j+8ru/nFWEplhEErqxPF40uuVQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAHTBLtrqJVJTonZt3Q/fpQP/SsHQLoVbxGeHkciJ4j77Iv+xPVBwCuaiBQrTCvHTjIWNDEM63Qf88RPbTByjmoYPgUkIhO3MzG9f3tNMd2KidCD3RGnRgzOR4ERF9opTclhbIF9BpBj8x4AbWBbEUzCyg/IjNvNYrhkGd8e2K9G9</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

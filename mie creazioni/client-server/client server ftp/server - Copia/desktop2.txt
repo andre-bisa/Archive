@@ -1,0 +1,7 @@
+open
+cacca11.altervista.org
+cacca11
+password
+cd /server
+mput comandi.txt
+quit

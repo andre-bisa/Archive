@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+audio
+</name>
+</assembly>
+<members>
+<member name="P:audio.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="P:audio.My.Resources.Resources._ON">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_10">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_100">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_20">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_30">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_40">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_50">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_60">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_70">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_80">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_90">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.batteria_incarica">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:audio.My.Resources.Resources.OFF">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:audio.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>

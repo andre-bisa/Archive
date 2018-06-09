@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\bin\Debug\numeri dispari.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\bin\Debug\numeri dispari.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\bin\Debug\numeri dispari.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri_dispari.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri dispari.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri dispari.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri dispari.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri dispari.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri dispari\obj\x86\Debug\numeri_dispari.Form1.resources
+C:\Users\Andrea\Desktop\numeri dispari\numeri dispari\obj\x86\Debug\numeri dispari.exe
+C:\Users\Andrea\Desktop\numeri dispari\numeri dispari\obj\x86\Debug\numeri dispari.xml
+C:\Users\Andrea\Desktop\numeri dispari\numeri dispari\obj\x86\Debug\numeri dispari.pdb

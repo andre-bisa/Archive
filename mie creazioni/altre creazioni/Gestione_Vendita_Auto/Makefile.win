@@ -1,0 +1,51 @@
+# Project: Concessionario
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = Concessionario.o formattazione.o funzioni.o procedura1.o procedura2.o procedura3.o procedura4.o procedura5.o $(RES)
+LINKOBJ  = Concessionario.o formattazione.o funzioni.o procedura1.o procedura2.o procedura3.o procedura4.o procedura5.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = Concessionario.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Concessionario.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Concessionario.exe" $(LIBS)
+
+Concessionario.o: Concessionario.cpp
+	$(CPP) -c Concessionario.cpp -o Concessionario.o $(CXXFLAGS)
+
+formattazione.o: formattazione.cpp
+	$(CPP) -c formattazione.cpp -o formattazione.o $(CXXFLAGS)
+
+funzioni.o: funzioni.cpp
+	$(CPP) -c funzioni.cpp -o funzioni.o $(CXXFLAGS)
+
+procedura1.o: procedura1.cpp
+	$(CPP) -c procedura1.cpp -o procedura1.o $(CXXFLAGS)
+
+procedura2.o: procedura2.cpp
+	$(CPP) -c procedura2.cpp -o procedura2.o $(CXXFLAGS)
+
+procedura3.o: procedura3.cpp
+	$(CPP) -c procedura3.cpp -o procedura3.o $(CXXFLAGS)
+
+procedura4.o: procedura4.cpp
+	$(CPP) -c procedura4.cpp -o procedura4.o $(CXXFLAGS)
+
+procedura5.o: procedura5.cpp
+	$(CPP) -c procedura5.cpp -o procedura5.o $(CXXFLAGS)

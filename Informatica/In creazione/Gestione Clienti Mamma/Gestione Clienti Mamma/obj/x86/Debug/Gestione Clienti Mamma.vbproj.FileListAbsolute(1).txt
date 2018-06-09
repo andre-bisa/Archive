@@ -1,0 +1,21 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione_Clienti_Mamma.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\Gestione Clienti Mamma\obj\x86\Debug\Gestione_Clienti_Mamma.Main.resources
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.exe
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.xml
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.pdb
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.exe
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.pdb
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\bin\Debug\Gestione Clienti Mamma.xml
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione_Clienti_Mamma.Main.resources
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione_Clienti_Mamma.Resources.resources
+C:\Users\Andrea\Desktop\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Gestione Clienti Mamma\Gestione Clienti Mamma\obj\x86\Debug\Gestione Clienti Mamma.pdb

@@ -1,0 +1,10 @@
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\bin\Debug\gradi.exe
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\bin\Debug\gradi.pdb
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\bin\Debug\gradi.xml
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\gradi.exe
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\gradi.xml
+C:\Users\Andrea\Desktop\compiti informatica\gradi\gradi\obj\x86\Debug\gradi.pdb

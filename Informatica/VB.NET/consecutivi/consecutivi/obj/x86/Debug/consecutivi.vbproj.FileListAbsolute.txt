@@ -1,0 +1,18 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\bin\Debug\consecutivi.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\bin\Debug\consecutivi.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\bin\Debug\consecutivi.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\consecutivi\obj\x86\Debug\consecutivi.pdb
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.exe
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.xml
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.pdb
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\bin\Debug\consecutivi.exe
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\bin\Debug\consecutivi.pdb
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\bin\Debug\consecutivi.xml
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.Form1.resources
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.Resources.resources
+C:\Users\Andrea\Desktop\consecutivi\consecutivi\obj\x86\Debug\consecutivi.vbproj.GenerateResource.Cache

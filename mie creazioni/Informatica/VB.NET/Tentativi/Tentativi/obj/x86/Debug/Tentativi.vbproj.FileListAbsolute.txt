@@ -1,0 +1,36 @@
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\bin\Debug\Tentativi.exe
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\bin\Debug\Tentativi.pdb
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\bin\Debug\Tentativi.xml
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.Form1.resources
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.Resources.resources
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.vbproj.GenerateResource.Cache
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.exe
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.xml
+C:\Users\Daniela\AppData\Local\Temporary Projects\Tentativi\obj\x86\Debug\Tentativi.pdb
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.exe
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.xml
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.pdb
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\bin\Debug\Tentativi.exe
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\bin\Debug\Tentativi.pdb
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\bin\Debug\Tentativi.xml
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Form1.resources
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Resources.resources
+C:\Users\Daniela\Desktop\Tentativi\Tentativi\obj\x86\Debug\Tentativi.vbproj.GenerateResource.Cache
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.exe
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.xml
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.pdb
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\bin\Debug\Tentativi.exe
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Form1.resources
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Resources.resources
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\obj\x86\Debug\Tentativi.vbproj.GenerateResource.Cache
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\bin\Debug\Tentativi.pdb
+C:\Users\Daniela\Desktop\ANDREA\Tentativi\Tentativi\bin\Debug\Tentativi.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\bin\Debug\Tentativi.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\bin\Debug\Tentativi.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\bin\Debug\Tentativi.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Form1.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\Tentativi\Tentativi\obj\x86\Debug\Tentativi.vbproj.GenerateResource.Cache

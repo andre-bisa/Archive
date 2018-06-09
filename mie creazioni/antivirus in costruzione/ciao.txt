@@ -1,0 +1,3 @@
+echo ciao
+del rubrica.txt
+goto end

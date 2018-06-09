@@ -1,0 +1,34 @@
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe.config
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe.config
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\bin\Debug\tempo aperto 4story.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\tempo aperto 4story\tempo aperto 4story\obj\x86\Debug\tempo aperto 4story.vbproj.GenerateResource.Cache

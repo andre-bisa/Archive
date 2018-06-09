@@ -1,0 +1,24 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\bin\Debug\numero a binario.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\bin\Debug\numero a binario.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\bin\Debug\numero a binario.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero_a_binario.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero_a_binario.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero a binario.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero a binario.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero a binario.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numero a binario\obj\x86\Debug\numero a binario.pdb
+C:\Users\Andrea\Desktop\numero a binario\numero a binario\obj\x86\Debug\numero a binario.exe
+C:\Users\Andrea\Desktop\numero a binario\numero a binario\obj\x86\Debug\numero a binario.xml
+C:\Users\Andrea\Desktop\numero a binario\numero a binario\obj\x86\Debug\numero a binario.pdb
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.exe
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.xml
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.pdb
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\bin\Debug\numero a binario.exe
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\bin\Debug\numero a binario.pdb
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\bin\Debug\numero a binario.xml
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero_a_binario.Form1.resources
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero_a_binario.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.vbproj.GenerateResource.Cache
+H:\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.exe
+H:\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.xml
+H:\compiti informatica\numero a binario\numero a binario\obj\x86\Debug\numero a binario.pdb

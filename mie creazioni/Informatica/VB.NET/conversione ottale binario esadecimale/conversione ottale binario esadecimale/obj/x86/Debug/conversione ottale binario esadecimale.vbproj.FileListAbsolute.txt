@@ -1,0 +1,21 @@
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.exe
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.pdb
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.xml
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione_ottale_binario_esadecimale.Form1.resources
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione_ottale_binario_esadecimale.Resources.resources
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.vbproj.GenerateResource.Cache
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.exe
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.xml
+C:\Users\terza\AppData\Local\Temporary Projects\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.pdb
+D:\AsCorrente\3Sia\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.exe
+D:\AsCorrente\3Sia\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.xml
+D:\AsCorrente\3Sia\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.pdb
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.exe
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.xml
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.pdb
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.exe
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.pdb
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\bin\Debug\conversione ottale binario esadecimale.xml
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione_ottale_binario_esadecimale.Form1.resources
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione_ottale_binario_esadecimale.Resources.resources
+C:\Users\terza\Desktop\conversione ottale binario esadecimale\conversione ottale binario esadecimale\obj\x86\Debug\conversione ottale binario esadecimale.vbproj.GenerateResource.Cache

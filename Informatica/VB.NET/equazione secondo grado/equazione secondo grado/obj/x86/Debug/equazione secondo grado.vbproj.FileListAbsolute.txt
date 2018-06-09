@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\bin\Debug\equazione secondo grado.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\bin\Debug\equazione secondo grado.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\bin\Debug\equazione secondo grado.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione_secondo_grado.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione_secondo_grado.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione secondo grado.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione secondo grado.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione secondo grado.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\equazione secondo grado\obj\x86\Debug\equazione secondo grado.pdb
+C:\Users\Andrea\Desktop\equazione secondo grado\equazione secondo grado\obj\x86\Debug\equazione secondo grado.exe
+C:\Users\Andrea\Desktop\equazione secondo grado\equazione secondo grado\obj\x86\Debug\equazione secondo grado.xml
+C:\Users\Andrea\Desktop\equazione secondo grado\equazione secondo grado\obj\x86\Debug\equazione secondo grado.pdb

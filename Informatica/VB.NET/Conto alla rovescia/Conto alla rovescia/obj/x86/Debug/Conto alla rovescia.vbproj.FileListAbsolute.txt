@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\bin\Debug\Conto alla rovescia.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\bin\Debug\Conto alla rovescia.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\bin\Debug\Conto alla rovescia.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto_alla_rovescia.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto_alla_rovescia.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.pdb
+C:\Users\Andrea\Desktop\Conto alla rovescia\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.exe
+C:\Users\Andrea\Desktop\Conto alla rovescia\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.xml
+C:\Users\Andrea\Desktop\Conto alla rovescia\Conto alla rovescia\obj\x86\Debug\Conto alla rovescia.pdb

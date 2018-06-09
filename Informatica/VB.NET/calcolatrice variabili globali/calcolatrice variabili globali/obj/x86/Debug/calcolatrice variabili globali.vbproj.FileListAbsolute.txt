@@ -1,0 +1,18 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice_variabili_globali.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice_variabili_globali.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.pdb
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.exe
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.xml
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.pdb
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.exe
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.pdb
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\bin\Debug\calcolatrice variabili globali.xml
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice_variabili_globali.Form1.resources
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice_variabili_globali.Resources.resources
+C:\Users\Andrea\Desktop\calcolatrice variabili globali\calcolatrice variabili globali\obj\x86\Debug\calcolatrice variabili globali.vbproj.GenerateResource.Cache

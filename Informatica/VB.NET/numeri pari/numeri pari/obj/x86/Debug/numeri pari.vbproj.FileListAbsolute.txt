@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\bin\Debug\numeri pari.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\bin\Debug\numeri pari.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\bin\Debug\numeri pari.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri_pari.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri_pari.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri pari.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri pari.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri pari.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\numeri pari\obj\x86\Debug\numeri pari.pdb
+C:\Users\Andrea\Desktop\numeri pari\numeri pari\obj\x86\Debug\numeri pari.exe
+C:\Users\Andrea\Desktop\numeri pari\numeri pari\obj\x86\Debug\numeri pari.xml
+C:\Users\Andrea\Desktop\numeri pari\numeri pari\obj\x86\Debug\numeri pari.pdb

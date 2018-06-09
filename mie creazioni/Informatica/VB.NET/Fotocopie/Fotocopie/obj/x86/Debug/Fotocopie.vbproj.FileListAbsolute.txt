@@ -1,0 +1,12 @@
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\bin\Debug\Fotocopie.exe
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\bin\Debug\Fotocopie.pdb
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\bin\Debug\Fotocopie.xml
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.exe
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.xml
+C:\Users\Andrea\Desktop\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\Fotocopie\Fotocopie\obj\x86\Debug\Fotocopie.pdb

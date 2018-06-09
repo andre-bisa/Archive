@@ -1,0 +1,10 @@
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Release\gestione computer.exe
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Release\gestione computer.pdb
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Release\gestione computer.xml
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Release\CoreAudioApi.dll
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione_computer.frmMain.resources
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione_computer.Resources.resources
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione computer.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione computer.exe
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione computer.xml
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Release\gestione computer.pdb

@@ -1,0 +1,21 @@
+C:\Users\docente\AppData\Local\Temporary Projects\medie\bin\Debug\medie.exe
+C:\Users\docente\AppData\Local\Temporary Projects\medie\bin\Debug\medie.pdb
+C:\Users\docente\AppData\Local\Temporary Projects\medie\bin\Debug\medie.xml
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.Form1.resources
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.Resources.resources
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.vbproj.GenerateResource.Cache
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.exe
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.xml
+C:\Users\docente\AppData\Local\Temporary Projects\medie\obj\x86\Debug\medie.pdb
+C:\medie\medie\obj\x86\Debug\medie.exe
+C:\medie\medie\obj\x86\Debug\medie.xml
+C:\medie\medie\obj\x86\Debug\medie.pdb
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.exe
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.xml
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.pdb
+C:\Users\terza\Desktop\medie\medie\bin\Debug\medie.exe
+C:\Users\terza\Desktop\medie\medie\bin\Debug\medie.pdb
+C:\Users\terza\Desktop\medie\medie\bin\Debug\medie.xml
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.Form1.resources
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.Resources.resources
+C:\Users\terza\Desktop\medie\medie\obj\x86\Debug\medie.vbproj.GenerateResource.Cache

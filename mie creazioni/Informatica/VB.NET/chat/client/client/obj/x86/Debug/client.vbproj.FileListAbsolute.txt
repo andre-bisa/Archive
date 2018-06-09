@@ -1,0 +1,56 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\bin\Debug\client.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\bin\Debug\client.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\bin\Debug\client.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.pdb
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.exe
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.xml
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.pdb
+C:\Users\Andrea\Desktop\client\client\bin\Debug\client.exe
+C:\Users\Andrea\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\Andrea\Desktop\client\client\bin\Debug\client.xml
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.Resources.resources
+C:\Users\Andrea\Desktop\client\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.exe
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.xml
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.pdb
+C:\Users\Andrea\Desktop\chat\client\client\bin\Debug\client.exe
+C:\Users\Andrea\Desktop\chat\client\client\bin\Debug\client.pdb
+C:\Users\Andrea\Desktop\chat\client\client\bin\Debug\client.xml
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.Resources.resources
+C:\Users\Andrea\Desktop\chat\client\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\bin\Debug\client.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\bin\Debug\client.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\bin\Debug\client.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\chat\client\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache
+G:\chat\client\client\obj\x86\Debug\client.exe
+G:\chat\client\client\obj\x86\Debug\client.xml
+G:\chat\client\client\obj\x86\Debug\client.pdb
+G:\chat\client\client\bin\Debug\client.exe
+G:\chat\client\client\bin\Debug\client.pdb
+G:\chat\client\client\bin\Debug\client.xml
+G:\chat\client\client\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\chat\client\client\obj\x86\Debug\client.Form1.resources
+G:\chat\client\client\obj\x86\Debug\client.Resources.resources
+G:\chat\client\client\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\chat\client\client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\bin\Debug\client.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\bin\Debug\client.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\bin\Debug\client.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\VB.NET\chat\client\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache

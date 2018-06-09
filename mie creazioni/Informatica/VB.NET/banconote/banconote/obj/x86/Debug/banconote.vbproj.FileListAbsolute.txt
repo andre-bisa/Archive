@@ -1,0 +1,9 @@
+C:\Users\Andrea\Desktop\banconote\banconote\bin\Debug\banconote.exe
+C:\Users\Andrea\Desktop\banconote\banconote\bin\Debug\banconote.pdb
+C:\Users\Andrea\Desktop\banconote\banconote\bin\Debug\banconote.xml
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\banconote.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\banconote.exe
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\banconote.xml
+C:\Users\Andrea\Desktop\banconote\banconote\obj\x86\Debug\banconote.pdb

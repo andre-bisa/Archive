@@ -1,0 +1,36 @@
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\bin\Debug\8 regine.exe
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\bin\Debug\8 regine.pdb
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\bin\Debug\8 regine.xml
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\_8_regine.Form1.resources
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\_8_regine.Resources.resources
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\8 regine.exe
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\8 regine.xml
+C:\Users\Daniela\AppData\Local\Temporary Projects\8 regine\obj\x86\Debug\8 regine.pdb
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.exe
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.xml
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.pdb
+C:\Users\Daniela\Desktop\8 regine\8 regine\bin\Debug\8 regine.exe
+C:\Users\Daniela\Desktop\8 regine\8 regine\bin\Debug\8 regine.pdb
+C:\Users\Daniela\Desktop\8 regine\8 regine\bin\Debug\8 regine.xml
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\_8_regine.Form1.resources
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\_8_regine.Resources.resources
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniela\Desktop\8 regine\8 regine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.exe
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.xml
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\8 regine.pdb
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\_8_regine.Form1.resources
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\8 regine\8 regine\bin\Debug\8 regine.exe
+C:\Users\Andrea\Desktop\8 regine\8 regine\bin\Debug\8 regine.pdb
+C:\Users\Andrea\Desktop\8 regine\8 regine\bin\Debug\8 regine.xml
+C:\Users\Andrea\Desktop\8 regine\8 regine\obj\x86\Debug\_8_regine.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\8 regine\8 regine\obj\x86\Debug\8 regine.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\8 regine\8 regine\obj\x86\Debug\8 regine.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\8 regine\8 regine\obj\x86\Debug\8 regine.pdb

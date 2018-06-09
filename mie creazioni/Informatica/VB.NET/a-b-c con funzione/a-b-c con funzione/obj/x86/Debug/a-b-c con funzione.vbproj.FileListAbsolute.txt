@@ -1,0 +1,10 @@
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\bin\Debug\a-b-c con funzione.exe
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\bin\Debug\a-b-c con funzione.pdb
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\bin\Debug\a-b-c con funzione.xml
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\a-b-c con funzione.exe
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\a-b-c con funzione.xml
+C:\Users\Andrea\Desktop\compiti informatica\a-b-c con funzione\a-b-c con funzione\obj\x86\Debug\a-b-c con funzione.pdb

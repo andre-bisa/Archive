@@ -1,0 +1,18 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma_dei_quadrati_dei_primi_n_numeri_interi.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma_dei_quadrati_dei_primi_n_numeri_interi.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.pdb
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.exe
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.xml
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.pdb
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.exe
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.pdb
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\bin\Debug\somma dei quadrati dei primi n numeri interi.xml
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma_dei_quadrati_dei_primi_n_numeri_interi.Form1.resources
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma_dei_quadrati_dei_primi_n_numeri_interi.Resources.resources
+C:\Users\Andrea\Desktop\somma dei quadrati dei primi n numeri interi\somma dei quadrati dei primi n numeri interi\obj\x86\Debug\somma dei quadrati dei primi n numeri interi.vbproj.GenerateResource.Cache

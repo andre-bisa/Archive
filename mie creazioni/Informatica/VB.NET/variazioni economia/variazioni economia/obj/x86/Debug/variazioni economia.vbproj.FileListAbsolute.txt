@@ -1,0 +1,63 @@
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\bin\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\bin\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Principale.resources
+H:\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe
+H:\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.xml
+H:\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.pdb
+H:\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe
+H:\variazioni economia\variazioni economia\bin\Debug\variazioni economia.pdb
+H:\variazioni economia\variazioni economia\bin\Debug\variazioni economia.xml
+H:\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Principale.resources
+H:\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_finanziaria.resources
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_economica.resources
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.mastrini.resources
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.aggiungi_voci.resources
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\bin\Debug\variazioni economia.application
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.TrustInfo.xml
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.application
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.application
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.aggiungi_voci.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.mastrini.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Principale.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_economica.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_finanziaria.resources
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.TrustInfo.xml
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\bin\Debug\variazioni economia.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.aggiungi_voci.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.mastrini.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Principale.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_economica.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\WindowsApplication1.situazione_finanziaria.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.TrustInfo.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\variazioni economia\variazioni economia\obj\x86\Debug\variazioni economia.application

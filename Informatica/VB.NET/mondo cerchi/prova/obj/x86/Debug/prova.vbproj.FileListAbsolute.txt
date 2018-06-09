@@ -1,0 +1,29 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\bin\Debug\prova.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\bin\Debug\prova.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\bin\Debug\prova.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\prova\obj\x86\Debug\prova.pdb
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.exe
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.xml
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.pdb
+C:\Users\Andrea\Desktop\prova\prova\bin\Debug\prova.exe
+C:\Users\Andrea\Desktop\prova\prova\bin\Debug\prova.pdb
+C:\Users\Andrea\Desktop\prova\prova\bin\Debug\prova.xml
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.Resources.resources
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.disegno.resources
+C:\Users\Andrea\Desktop\prova\prova\obj\x86\Debug\prova.gestione.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\bin\Debug\prova.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\bin\Debug\prova.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\bin\Debug\prova.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.disegno.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.gestione.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\mondo cerchi\prova\obj\x86\Debug\prova.vbproj.GenerateResource.Cache

@@ -1,0 +1,29 @@
+Il seguente file è stato creato da Blackname, è assolutamente vietata la copia sia totale che parziale del programma.
+
+il programma all'apertura cercherà degli aggiornamenti, ci si può trovare davanti ad alcuni casi:
+- Versione aggiornata: il programma arriva al menù principale senza Scrivere nient'altro.
+- Versione da aggiornare: visitare il sito: http://programmidiblackname.forumcommunity.net/ e andare a trovare la sezione 
+                          del programma per scaricare gli aggiornamenti.
+- Timeout, non connesso in 3000ms: significa che è fallita la ricerca di aggiornamenti!
+- Connesso, ricerca aggiornamenti in corso... 
+  Premere un tasto per saltare la ricerca di aggiornamenti : significa che si è collegato ma per qualche errore non ha 
+                                                             ricevuto risposta, consiglio di premere un tasto e andare 
+                                                             al menù principale
+
+
+Per muoversi all'interno del menù usare le frecce direzionali.
+Se si vuole chiudere la chat dove si stà chattando scrivere "chat.stop" senza virgolette.
+
+IMPORTANTE:
+Un computer dovrà fare da client e un altro da server, il server dovrà aprire la connessione su una determinata porta e il
+client dovrà sapere sia l'indirizzo ip (locale) del server sia la porta che stà usando il server, quindi è consigliato
+mettersi d'accordo prima su chi dovrà fare il client e chi il server, il server dovrà essere il primo ad aprire una 
+connessione sul proprio pc. Può succedere che venga richiesta l'accettazione da parte del firewall per l'apertura della 
+porta selezionata, in tal caso accettare e fare click su sblocca.
+
+In caso di bug, malfunzionamenti o altro rivolgersi al forum: http://programmidiblackname.forumcommunity.net/ e scrivere 
+nelel apposite sezioni, anche se NON si è registrati si può rispondere a discussioni già aperte e vi pregherei di farlo
+SOLO nel caso in cui troviate bug, malfunzionamenti o altro.
+
+Grazie,
+Blackname

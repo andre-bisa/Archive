@@ -1,0 +1,15 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\bin\Debug\contro alla rovescia -11.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\bin\Debug\contro alla rovescia -11.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\bin\Debug\contro alla rovescia -11.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro_alla_rovescia__11.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro_alla_rovescia__11.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.pdb
+C:\Users\Andrea\Desktop\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.exe
+C:\Users\Andrea\Desktop\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.xml
+C:\Users\Andrea\Desktop\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\VB.NET\contro alla rovescia -11\contro alla rovescia -11\obj\x86\Debug\contro alla rovescia -11.pdb

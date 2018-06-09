@@ -1,0 +1,21 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\bin\Debug\distanza 2 date.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\bin\Debug\distanza 2 date.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\bin\Debug\distanza 2 date.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza_2_date.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza_2_date.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza 2 date.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza 2 date.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza 2 date.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\distanza 2 date\obj\x86\Debug\distanza 2 date.pdb
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.exe
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.xml
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.pdb
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\bin\Debug\distanza 2 date.exe
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\bin\Debug\distanza 2 date.pdb
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\bin\Debug\distanza 2 date.xml
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza_2_date.Form1.resources
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza_2_date.Resources.resources
+C:\Users\Andrea\Desktop\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\compiti informatica\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.exe
+C:\Users\Andrea\Desktop\compiti informatica\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.xml
+C:\Users\Andrea\Desktop\compiti informatica\distanza 2 date\distanza 2 date\obj\x86\Debug\distanza 2 date.pdb

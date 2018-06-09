@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\bin\Debug\giorno da data.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\bin\Debug\giorno da data.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\bin\Debug\giorno da data.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno_da_data.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno_da_data.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno da data.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno da data.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno da data.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\giorno da data\obj\x86\Debug\giorno da data.pdb
+C:\Users\Andrea\Desktop\giorno da data\giorno da data\obj\x86\Debug\giorno da data.exe
+C:\Users\Andrea\Desktop\giorno da data\giorno da data\obj\x86\Debug\giorno da data.xml
+C:\Users\Andrea\Desktop\giorno da data\giorno da data\obj\x86\Debug\giorno da data.pdb

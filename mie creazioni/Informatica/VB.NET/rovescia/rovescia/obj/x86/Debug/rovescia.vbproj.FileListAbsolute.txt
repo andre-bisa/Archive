@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\bin\Debug\rovescia.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\bin\Debug\rovescia.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\bin\Debug\rovescia.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\rovescia\obj\x86\Debug\rovescia.pdb
+C:\Users\Andrea\Desktop\rovescia\rovescia\obj\x86\Debug\rovescia.exe
+C:\Users\Andrea\Desktop\rovescia\rovescia\obj\x86\Debug\rovescia.xml
+C:\Users\Andrea\Desktop\rovescia\rovescia\obj\x86\Debug\rovescia.pdb

@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\bin\Debug\somma con +1 -1.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\bin\Debug\somma con +1 -1.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\bin\Debug\somma con +1 -1.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma_con__1__1.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma_con__1__1.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma con +1 -1.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma con +1 -1.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma con +1 -1.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma con +1 -1\obj\x86\Debug\somma con +1 -1.pdb
+C:\Users\Andrea\Desktop\somma con +1 -1\somma con +1 -1\obj\x86\Debug\somma con +1 -1.exe
+C:\Users\Andrea\Desktop\somma con +1 -1\somma con +1 -1\obj\x86\Debug\somma con +1 -1.xml
+C:\Users\Andrea\Desktop\somma con +1 -1\somma con +1 -1\obj\x86\Debug\somma con +1 -1.pdb

@@ -1,0 +1,25 @@
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.exe
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.pdb
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.xml
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.exe
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.xml
+C:\Users\Andrea\Desktop\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.pdb
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.exe
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.xml
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\scrivi stringa.pdb
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.exe
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.pdb
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\bin\Debug\scrivi stringa.xml
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\scrivi stringa\scrivi stringa\obj\x86\Debug\GenerateResource.write.1.tlog

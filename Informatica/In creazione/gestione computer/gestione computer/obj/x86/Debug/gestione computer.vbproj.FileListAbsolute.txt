@@ -1,0 +1,28 @@
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Debug\gestione computer.exe
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Debug\gestione computer.pdb
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Debug\gestione computer.xml
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Debug\CoreAudioApi.dll
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione computer.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione_computer.frmMain.resources
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione_computer.Resources.resources
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione computer.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione computer.exe
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione computer.xml
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\obj\x86\Debug\gestione computer.pdb
+C:\Users\Andrea\Desktop\gestione computer\gestione computer\bin\Debug\gestione computer.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\bin\Debug\gestione computer.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\bin\Debug\gestione computer.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\bin\Debug\gestione computer.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\bin\Debug\gestione computer.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\bin\Debug\CoreAudioApi.dll
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione_computer.frmMain.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione_computer.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\In creazione\gestione computer\gestione computer\bin\Debug\gestione computer.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\In creazione\gestione computer\gestione computer\obj\x86\Debug\gestione computer.pdb

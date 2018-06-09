@@ -1,0 +1,12 @@
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\bin\Debug\somma n numeri.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\bin\Debug\somma n numeri.pdb
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\bin\Debug\somma n numeri.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma_n_numeri.Form1.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma_n_numeri.Resources.resources
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma n numeri.vbproj.GenerateResource.Cache
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma n numeri.exe
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma n numeri.xml
+C:\Users\Andrea\AppData\Local\Temporary Projects\somma n numeri\obj\x86\Debug\somma n numeri.pdb
+C:\Users\Andrea\Desktop\somma n numeri\somma n numeri\obj\x86\Debug\somma n numeri.exe
+C:\Users\Andrea\Desktop\somma n numeri\somma n numeri\obj\x86\Debug\somma n numeri.xml
+C:\Users\Andrea\Desktop\somma n numeri\somma n numeri\obj\x86\Debug\somma n numeri.pdb

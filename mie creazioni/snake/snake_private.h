@@ -1,0 +1,23 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT ! */
+
+#ifndef SNAKE_PRIVATE_H
+#define SNAKE_PRIVATE_H
+
+/* VERSION DEFINITIONS */
+#define VER_STRING	"2.0.0.7"
+#define VER_MAJOR	2
+#define VER_MINOR	0
+#define VER_RELEASE	0
+#define VER_BUILD	7
+#define COMPANY_NAME	""
+#define FILE_VERSION	"2.0.0.7"
+#define FILE_DESCRIPTION	"Snake"
+#define INTERNAL_NAME	""
+#define LEGAL_COPYRIGHT	""
+#define LEGAL_TRADEMARKS	""
+#define ORIGINAL_FILENAME	""
+#define PRODUCT_NAME	"Andre_bisa"
+#define PRODUCT_VERSION	"2.0.0.7"
+
+#endif /*SNAKE_PRIVATE_H*/
